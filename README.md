@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Maestro, AIMS, XMCore BBS, [Hackgibson.sh](https://hackgibson.sh), and Operations for Majordomo.fund
+- 🔭 I’m currently working on Maestro, AIMS, [Hackgibson.sh](https://hackgibson.sh) ARG/CTF, and Operations for Majordomo.fund
 - 🌱 I’m currently learning Hedgefund management and the finer details of M&A
 - 👯 I’m looking to collaborate on AI Driven DevOps or C2C based service intergrations
 - 🤔 I’m looking for help with setting up oauth2-proxy for heroku deployed apps or any bounty posted to [Gitcoin](gitcoin.co/daplanet)
