@@ -1,0 +1,11 @@
+{
+    "name": "Thread Locker Workflow",
+    "description": "closes and locks old issue threads for a repo",
+    "iconName": "lock",
+    "categories": [
+        "github"
+    ],
+    "filePatterns": [
+        "*"
+    ]
+}
